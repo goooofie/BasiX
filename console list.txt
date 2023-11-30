@@ -1,0 +1,12 @@
+Full console list:
+
+Gamecube
+Wii
+PS2
+PS1
+N64
+SNES
+NES
+PSP
+DS
+3DS
