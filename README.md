@@ -15,4 +15,4 @@ To see the game list or console list, just press on the txt files above.
 
 **Convenient:** Just navagate through the folders and open your favorite emulator.
 
-**Only what you need:** There is no useless emulators that you will not use. Just the your childhood favorites.
+**Only what you need:** There is no useless emulators that you will not use. Just the childhood favorites.
