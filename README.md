@@ -7,12 +7,12 @@ BasiX simplifies gaming history by bundling ten consoles into one convenient emu
 
 To see the game list or console list, just press on the txt files above.
 
-# Advantages
+# Features
 
-**Smaller:** BasiX is much smaller than ClassIX, only having 10 consoles. This makes it better if you have a bad internet connection.
+**Small:** BasiX is much smaller than ClassIX, only having 10 consoles. This makes it better if you have a bad internet connection.
 
 **Simple:** BasiX is also much more basic than ClassIX, so you will spend less time navigating if you only care about main consoles.
 
 **Convenient:** Just navagate through the folders and open your favorite emulator.
 
-**Only what you need:** There is no useless emulators that you will not use. Just the childhood favorites.
+**Guides:** Guides to how to play your roms, how to install bios, and how to install emulators.
